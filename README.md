@@ -1,6 +1,6 @@
 Json to Excel conversion script
 
-Dependencies You must download
+Dependencies You must download:
 *node.js
 *npm
 *xlsx libray('npm install xlsx')
